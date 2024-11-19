@@ -1,0 +1,55 @@
+
+*{
+    margin: 0;
+    padding: 0;
+}
+
+
+section{
+    width: 100%;
+    text-align: center;
+    padding: 120px 0;
+    background: #221919;
+    min-height: 100vh;
+
+}
+
+
+h1{
+    color: aqua;
+    font-size: 50px;
+}
+
+h2{
+    color: aqua;
+    font-size: 34px;
+    margin: 20px 0;
+}
+
+p {
+    color: white;
+    font-size: 22px;
+
+}
+
+#cont-butones{
+    width: 80%;
+    margin: 50px auto;
+}
+
+button {
+    padding: 14px 30px;
+    background: transparent;
+    border: 2px solid aqua;
+    color: rgb(235, 245, 245);
+    margin: 10px;
+    transition: 0.4s;
+    
+}
+
+button:hover{
+    background: aqua;
+    color: black;
+    border-radius: 30px;
+
+}
